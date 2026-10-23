@@ -1,0 +1,13 @@
+config/*
+!config/.gitkeep
+backups/
+data/
+.env
+.env.*
+!.env.example
+.venv/
+.pytest_cache/
+.DS_Store
+*.log
+__pycache__/
+*.pyc

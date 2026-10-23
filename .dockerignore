@@ -1,0 +1,16 @@
+.git
+.env
+.env.*
+.venv
+.pytest_cache
+config
+backups
+data
+tests
+frontend
+__pycache__
+*.pyc
+*.log
+*.command
+README.md
+CALENDAR_SETUP.md
